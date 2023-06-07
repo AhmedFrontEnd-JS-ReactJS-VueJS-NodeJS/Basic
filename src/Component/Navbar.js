@@ -5,7 +5,7 @@ const Navbar = () => {
     <div className='flex'>
       <div className='flex flex-col bg-white w-60 relative shadow-xl columns-4'>
         <ul>
-          <h1 className='text-4xl mb-14 ml-5 font-bold italic mt-10 '>DEMO</h1>
+          <h1 className='text-4xl mb-14 ml-5 font-bold italic mt-10 '>LODGN</h1>
           <li className='py-2'>
             <a href='to' className='active text-decoration-none p-10 text-lg text-green-600 font-semibold' >Current Request</a></li>
           <div className='border mt-2 w-48 text-center ml-4' />

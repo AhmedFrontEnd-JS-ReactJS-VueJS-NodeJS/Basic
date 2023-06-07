@@ -46,33 +46,33 @@ const Request = () => {
             </div>
             <div className='flex flex-row mx-6 pb-5 bg-white justify-around mb-3 rounded-b-[80px] gap-24'>
                 <div className='px-14 py-10 bg-[#F5F4F4] w-1/3 ml-10'>
-                    <img src={Vector} alt='no image' className='mx-auto' />
+                    <img src={Vector} alt='nothing' className='mx-auto' />
                     <h1 className='text-green-600 text-2xl text-center'>Holiday Inn</h1>
                     <div className='flex flex-col justify-around w-100 mt-4 shadow-xl py-6 px-12 relative'>
                         <p className=' mt-2'>1.5 miles away from joblocation. </p>
                         <span className='block mt-4'>Singles:$50</span>
                         <span className='block'>Doubles:$100</span>
-                        <a className='p-2 rounded-xl  bg-green-600 mt-3 w-24 absolute top-24 left-[160px] '>Book Now</a>
+                        <a href="to" className='p-2 rounded-xl  bg-green-600 mt-3 w-24 absolute top-24 left-[160px] '>Book Now</a>
                     </div>
                 </div>
                 <div className='px-14 py-10 bg-[#F5F4F4] w-1/3'>
-                    <img src={Vector} alt='no image' className='mx-auto' />
+                    <img src={Vector} alt='nothing' className='mx-auto' />
                     <h1 className='text-green-600 text-2xl text-center'>Holiday Inn</h1>
                     <div className='flex flex-col justify-around w-100 mt-4 shadow-xl py-6 px-12 relative'>
                         <p className='block mt-2'>1.5 miles away from joblocation. </p>
                         <span className='block mt-4'>Singles:$50</span>
                         <span className='block'>Doubles:$100</span>
-                        <a className='p-2 rounded-xl  bg-green-600 mt-3 w-24 absolute top-24 left-[160px] '>Book Now</a>
+                        <a href="to" className='p-2 rounded-xl  bg-green-600 mt-3 w-24 absolute top-24 left-[160px] '>Book Now</a>
                     </div>
                 </div>
                 <div className='px-14 py-10 bg-[#F5F4F4] w-1/3 mr-10'>
-                    <img src={Vector} alt='no image' className='mx-auto' />
+                    <img src={Vector} alt='nothing' className='mx-auto' />
                     <h1 className='text-green-600 text-2xl text-center'>Holiday Inn</h1>
                     <div className='flex flex-col justify-around w-100 mt-4 shadow-xl py-6 px-12 relative'>
                         <p className=' mt-2'>1.5 miles away from joblocation. </p>
                         <span className='block mt-4'>Singles:$50</span>
                         <span className='block'>Doubles:$100</span>
-                        <a className='p-2 rounded-xl  bg-green-600 mt-3 w-24 absolute top-24 left-[160px] '>Book Now</a>
+                        <a href="to" className='p-2 rounded-xl  bg-green-600 mt-3 w-24 absolute top-24 left-[160px] '>Book Now</a>
                     </div>
                 </div>
 
